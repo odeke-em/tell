@@ -1,0 +1,273 @@
+{
+    "drive": {
+        "odeke-em": {
+            "id": "github.com/odeke-em/drive",
+            "annotations": [
+                "odeke-em",
+                "Google Drive",
+                "CLI",
+                "Golang",
+                "Cloud",
+                "Open Source",
+                "fork"
+            ]
+        },
+        "rakyll": {
+            "id": "github.com/rakyll/drive",
+            "annotations": [
+                "Google Drive",
+                "CLI",
+                "Golang",
+                "Cloud",
+                "Burcu Dogan",
+                "Open Source"
+            ]
+        }
+    },
+    "go": {
+        "golang": {
+            "id": "github.com/golang/go",
+            "annotations": [
+                "Golang",
+                "Language",
+                "Open Source",
+                "Google",
+                "Cloud",
+                "Gopher",
+                "Modern Language",
+                "Plan 9 folks",
+                "Ken Thompson",
+                "Rob Pike",
+                "Bell labs folks",
+                "static typing",
+                "C folks",
+                "Collaboration",
+                "Production"
+            ]
+        },
+        "odeke-em": {
+            "id": "github.com/odeke-em/go",
+            "annotations": [
+                "fork",
+                "bug fix",
+                "Open Source",
+                "Golang",
+                "odeke-em"
+            ]
+        }
+    },
+    "python": {
+        "cpython": {
+            "id": "python/cpython",
+            "annotations": [
+                "Open Source",
+                "Guido Van Rossum",
+                "Scripting language",
+                "PyCon",
+                "Programming language",
+                "Amsterdam",
+                "History of ABC",
+                "Cloud",
+                "Language",
+                "Collaboration",
+                "PSF",
+                "1991",
+                "dynamically typing",
+                "duck typing",
+                "prototyping",
+                "BFDL",
+                "production"
+            ]
+        }
+    },
+    "redis": {
+        "antirez": {
+            "id": "antirez/redis",
+            "annotations": [
+                "Open Source",
+                "Pivotal",
+                "NoSQL",
+                "Cloud",
+                "In-memory database",
+                "Database",
+                "Sanfilipo",
+                "C",
+                "Tcl"
+            ]
+        }
+    },
+    "tor": {
+        "torproject": {
+            "id": "github.com/torproject/tor",
+            "annotations": [
+                "privacy",
+                "eff",
+                "anonymity",
+                "internet",
+                "Open Source",
+                "secure",
+                "C"
+            ]
+        }
+    },
+    "reactiveCocoa": {
+        "reactiveCocoa": {
+            "id": "github.com/reactiveCocoa/reactiveCocoa",
+            "annotations": [
+                "Framework",
+                "Githubbers",
+                "Objective-C",
+                "Reactive",
+                "Swifters"
+            ]
+        }
+    },
+    "ycombinator": {
+        "functionalprogramming": {
+            "id": "wikipedia.org/ycombinator",
+            "annotations": [
+                "programming",
+                "turing church thesis",
+                "lambda calculus",
+                "generate functions",
+                "lisp",
+                "scheme",
+                "Paul Graham company name choice"
+            ]
+        },
+        "hackernews": {
+            "id": "news.ycombinator.com",
+            "annotations": [
+                "technology",
+                "forum",
+                "discussion",
+                "code",
+                "projects",
+                "technology news"
+             ]
+        },
+        "ycombinator": {
+            "id": "ycombinator.com",
+            "annotations": [
+                "Startup",
+                "Silicon Valley",
+                "Paul Graham",
+                "Sam Altman",
+                "Venture Capital"
+            ]
+        }
+    },
+    "reddit": {
+        "reddit": {
+            "id": "reddit.com",
+            "annotations": [
+                "Aaron Swartz",
+                "cats",
+                "community",
+                "webpy",
+                "discussion",
+                "forum",
+                "meme",
+                "internet",
+                "share",
+                "post",
+                "Silicon Valley",
+                "open source",
+                "popularity",
+                "Sam Altman",
+                "satire",
+                "vote",
+                "ycombinator"
+            ]
+        }
+    },
+    "wikipedia": {
+        "wikipedia": {
+            "id": "wikipedia.org",
+            "annotations": [
+                "open collaboration",
+                "internet",
+                "search",
+                "information",
+                "resources",
+                "reference",
+                "Jimmy Wells",
+                "Volunteer",
+                "archive",
+                "popular",
+                "text",
+                "wiki"
+            ]
+        }
+    },
+    "trending": {
+        "github.com": {
+            "id": "github.com/trending",
+            "annotations": [
+            ]
+        },
+        "twitter.com": {
+            "id": "twitter.com/i/discover",
+            "annotations": [
+                "worldwide",
+                "tweets",
+                "popular",
+                "worldwide",
+                "realtime"
+            ]
+        },
+        "reddit.com/linux": {
+            "id": "reddit.com/linux",
+            "annotations": [
+                "oss",
+                "owncloud",
+                "linux",
+                "cloud solutions",
+                "open source",
+                "oss",
+                "discussion"
+            ]
+        },
+        "driveless cars": {
+            "id": "https://news.ycombinator.com/item?id=9055073",
+            "annotations": [
+                "bbc",
+                "self driving cars",
+                "transport",
+                "Google X",
+                "intelligent machines",
+                "automobiles"
+            ]
+        }
+    },
+    "snl": {
+        "comedy": {
+            "id": "nbc.com/saturday-night-live",
+            "annotations": [
+                "Andy Samberg",
+                "Eddie Murphy",
+                "funny",
+                "Lorne Michael",
+                "satire",
+                "Tina Fey",
+                "skits",
+                "entertainment",
+                "comedy",
+                "arts",
+                "comedians",
+                "snl40",
+                "Saturday Night Live",
+                "standup"
+             ]
+        },
+        "rating": {
+            "id": "movieinsider.com/mpaa/R",
+            "annotations": [
+                "movies",
+                "arts",
+                "genre",
+                "parental guidance"
+            ]
+        }
+    }
+}
